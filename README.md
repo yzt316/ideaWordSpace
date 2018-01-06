@@ -1,0 +1,2 @@
+# ideaWordSpace
+idea code workSpace
